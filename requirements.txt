@@ -1,0 +1,14 @@
+pillow
+nest-asyncio
+urllib3
+spacy
+presidio-analyzer
+presidio-anonymizer
+fastapi
+google-generativeai
+uvicorn
+spacy-llm
+python-multipart
+python-magic
+pdf2image
+pytesseract
